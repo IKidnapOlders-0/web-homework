@@ -1,0 +1,4 @@
+2nd short description:
+HTML acts as the structural foundation or "skeleton" of a website, telling the 
+browser what each piece of content is (like a header, a list item, or a table)
+before styles (CSS) or interactivity (JavaScript) are added.
